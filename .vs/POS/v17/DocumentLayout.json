@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\astung\\Documents\\My Docs\\Source Code\\POS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{861B92E9-2FF2-4C83-AC15-67847FD3213F}|POS.Test\\POS.Test.csproj|C:\\Users\\astung\\Documents\\My Docs\\Source Code\\POS\\pos.test\\usertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861B92E9-2FF2-4C83-AC15-67847FD3213F}|POS.Test\\POS.Test.csproj|solutionrelative:pos.test\\usertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F46246F-2FD7-4A78-98B4-AC745A4E5830}|Application\\Application.csproj|c:\\users\\astung\\documents\\my docs\\source code\\pos\\application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F46246F-2FD7-4A78-98B4-AC745A4E5830}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F46246F-2FD7-4A78-98B4-AC745A4E5830}|Application\\Application.csproj|C:\\Users\\astung\\Documents\\My Docs\\Source Code\\POS\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F46246F-2FD7-4A78-98B4-AC745A4E5830}|Application\\Application.csproj|solutionrelative:application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1586EF15-8A7C-470B-92FE-40DE0BF5C989}|WebAPI\\WebAPI.csproj|C:\\Users\\astung\\Documents\\My Docs\\Source Code\\POS\\webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1586EF15-8A7C-470B-92FE-40DE0BF5C989}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4B2E10-6352-4BE9-95A7-B7F3F372BB35}|Infrastructure\\Infrastructure.csproj|C:\\Users\\astung\\Documents\\My Docs\\Source Code\\POS\\infrastructure\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4B2E10-6352-4BE9-95A7-B7F3F372BB35}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4B2E10-6352-4BE9-95A7-B7F3F372BB35}|Infrastructure\\Infrastructure.csproj|C:\\Users\\astung\\Documents\\My Docs\\Source Code\\POS\\infrastructure\\repositories\\userrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4B2E10-6352-4BE9-95A7-B7F3F372BB35}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\userrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1586EF15-8A7C-470B-92FE-40DE0BF5C989}|WebAPI\\WebAPI.csproj|C:\\Users\\astung\\Documents\\My Docs\\Source Code\\POS\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1586EF15-8A7C-470B-92FE-40DE0BF5C989}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1586EF15-8A7C-470B-92FE-40DE0BF5C989}|WebAPI\\WebAPI.csproj|C:\\Users\\astung\\Documents\\My Docs\\Source Code\\POS\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1586EF15-8A7C-470B-92FE-40DE0BF5C989}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4B2E10-6352-4BE9-95A7-B7F3F372BB35}|Infrastructure\\Infrastructure.csproj|C:\\Users\\astung\\Documents\\My Docs\\Source Code\\POS\\infrastructure\\repositories\\rolerepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4B2E10-6352-4BE9-95A7-B7F3F372BB35}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\rolerepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\astung\\Documents\\My Docs\\Source Code\\POS\\Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\astung\\Documents\\My Docs\\Source Code\\POS\\Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:58:54.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\astung\\Documents\\My Docs\\Source Code\\POS\\Infrastructure\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\astung\\Documents\\My Docs\\Source Code\\POS\\Infrastructure\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection\\DependencyInjection.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:56:15.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\astung\\Documents\\My Docs\\Source Code\\POS\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\astung\\Documents\\My Docs\\Source Code\\POS\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T02:32:56.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\astung\\Documents\\My Docs\\Source Code\\POS\\WebAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\astung\\Documents\\My Docs\\Source Code\\POS\\WebAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T02:11:52.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\astung\\Documents\\My Docs\\Source Code\\POS\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\astung\\Documents\\My Docs\\Source Code\\POS\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T02:38:09.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\astung\\Documents\\My Docs\\Source Code\\POS\\Infrastructure\\Repositories\\UserRepositories.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepositories.cs",
+              "ToolTip": "C:\\Users\\astung\\Documents\\My Docs\\Source Code\\POS\\Infrastructure\\Repositories\\UserRepositories.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserRepositories.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:29:55.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserTest.cs",
+              "DocumentMoniker": "C:\\Users\\astung\\Documents\\My Docs\\Source Code\\POS\\POS.Test\\UserTest.cs",
+              "RelativeDocumentMoniker": "POS.Test\\UserTest.cs",
+              "ToolTip": "C:\\Users\\astung\\Documents\\My Docs\\Source Code\\POS\\POS.Test\\UserTest.cs",
+              "RelativeToolTip": "POS.Test\\UserTest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:57:28.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\astung\\Documents\\My Docs\\Source Code\\POS\\Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\astung\\Documents\\My Docs\\Source Code\\POS\\Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Application\\Services\\UserService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwBgAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:57:19.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoleRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\astung\\Documents\\My Docs\\Source Code\\POS\\Infrastructure\\Repositories\\RoleRepositories.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\RoleRepositories.cs",
+              "ToolTip": "C:\\Users\\astung\\Documents\\My Docs\\Source Code\\POS\\Infrastructure\\Repositories\\RoleRepositories.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\RoleRepositories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:44:28.23Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
